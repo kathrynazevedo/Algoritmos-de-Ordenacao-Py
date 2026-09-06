@@ -1,0 +1,9 @@
+
+
+Resultados da execucao:
+Bubble Sort: 14.100355 segundos
+Quick Sort: 4.892087 segundos
+Merge Sort: 9.086618 segundos
+Quick Sort foi o mais rapido.
+
+--------------------------------
